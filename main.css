@@ -207,7 +207,7 @@ h1, h2, h3, h4, h5, h6{
         background-color:#521a66;
         background-image: url(../images/bg_topo_1198x670.jpg);
 */
-        background: #521a66 url(../images/bg_topo_1198x670.jpg);
+        background: #521a66 url(https://rogsantos.github.io/responsivo/images/bg_topo_1198x670.jpg);
         background-position: center bottom;
         height: 20em;
         padding-top: 17em;
